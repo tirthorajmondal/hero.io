@@ -3,29 +3,49 @@ export const ProductContext = createContext();
 const ProductProvider = ({ children }) => {
     const [products, setProducts] = useState([]);
     const [trending, setTrending] = useState([]);
+    const [loading, setLoading] = useState(false);
+
+    const filterTrendingByAvgRating = (data) => {
+        const filterTrending = data.filter(product => product.ratingAvg <= 5)
+        const shortTrending = filterTrending.sort((a, b) => b.ratingAvg - a.ratingAvg);
+        const trendingProducts = shortTrending.slice(0, 8);
+        setTrending(trendingProducts);
+    }
 
     const fetchApps = async () => {
-        const res = await fetch('/data.json')
+        const res = await fetch('/final_data.json')
         const data = await res.json();
         setProducts(data);
-        setTrending(data.slice(0, 8));
+
+        // trending products filtering
+        filterTrendingByAvgRating(data);
     }
-    const fetchProductDetails = async (id) => {
-        const product = products.find(p => p.id === 1)
-        console.log(product);
-        // return product;
+    const fetchProductDetails = (id) => {
+        const product = products.find(p => p.id === parseInt(id));
+        return product;
     }
 
     useEffect(() => {
-        fetchApps();
-    }, [products])
+        const loadApps = async () => {
+            setLoading(true);
+            try {
+                await fetchApps();
+            } catch (error) {
+                console.error("Error fetching apps:", error);
+            } finally {
+                setLoading(false);
+            }
+        };
+
+        loadApps();
+    }, [])
 
     const productInfo = {
         products,
         setProducts,
         trending,
         fetchProductDetails,
-
+        loading,
     };
 
     return (
