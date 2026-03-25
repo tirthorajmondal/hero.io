@@ -6,7 +6,7 @@ const Footer = () => {
     const currentYear = new Date().getFullYear();
 
     return (
-        <footer className="mt-16 text-white border-t border-base-300 bg-[#040016]">
+        <footer className="text-white border-t border-base-300 bg-[#040016]">
             <div className="w-11/12 mx-auto py-10 grid gap-8 md:grid-cols-2 lg:grid-cols-4">
                 <div className="space-y-3">
                     <Link to="/" className="inline-block max-h-12">
@@ -57,9 +57,8 @@ const Footer = () => {
             </div>
 
             <div className="border-t border-base-300">
-                <div className="w-11/12 mx-auto py-4 text-sm flex flex-col sm:flex-row gap-2 sm:items-center sm:justify-between opacity-80">
-                    <p>© {currentYear} Hero.io. All rights reserved.</p>
-                    <p>Built to help users discover the right apps faster.</p>
+                <div className="w-11/12 mx-auto py-4 text-sm flex items-center justify-center">
+                    <p className=''>© {currentYear} Hero.io. All rights reserved.</p>
                 </div>
             </div>
         </footer>

@@ -13,7 +13,7 @@ const ProductProvider = ({ children }) => {
     }
 
     const fetchApps = async () => {
-        const res = await fetch('/final_data.json')
+        const res = await fetch('/data.json')
         const data = await res.json();
         setProducts(data);
 

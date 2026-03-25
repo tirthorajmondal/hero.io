@@ -11,8 +11,9 @@ const Navbar = () => {
         { label: "Apps", to: "/apps", icon: <FaAppStore /> },
         { label: "Installation", to: "/installations", icon: <MdOutlineInstallDesktop /> }
     ]
+
     return (
-        <header className="navbar bg-base-100 shadow-sm lg:px-3">
+        <header className="navbar bg-base-100 shadow-sm lg:px-3 lg:w-11/12 mx-auto">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden p-2 h-fit mx-2">
@@ -24,10 +25,10 @@ const Navbar = () => {
                         {
                             navLinks.map((link, index) => (
                                 <li key={index}>
-                                    <NavLink className={`
-                                 ${({ isActive }) => isActive && console.log(isActive)}
-                                  font-semibold `}
-                                        to={link.to}><span>{link.icon}</span>{link.label}</NavLink>
+                                    <NavLink className={({ isActive }) =>
+                                        `font-semibold transition-colors active:bg-[#afafaf]
+                                    ${isActive ? 'text-primary' : 'text-base-content'}`}
+                                        to={link.to} end><span>{link.icon}</span>{link.label}</NavLink>
                                 </li>
                             ))
                         }
@@ -41,10 +42,10 @@ const Navbar = () => {
                         navLinks.map((link, index) => (
                             <li key={index} className=''>
                                 <NavLink
-                                    className={`
-                                 ${({ isActive }) => isActive && console.log(isActive)}
-                                  font-semibold `}
-                                    to={link.to}
+                                    className={({ isActive }) =>
+                                        `font-semibold transition-colors active:bg-[#afafaf]
+                                    ${isActive ? 'text-primary' : 'text-base-content'}`}
+                                    to={link.to} end
                                 ><span>{link.icon}</span>{link.label}</NavLink>
                             </li>
                         ))
