@@ -1,4 +1,3 @@
-
 import SectionHeading from './../SectionHeading/SectionHeading';
 const States = () => {
     const statesData = [

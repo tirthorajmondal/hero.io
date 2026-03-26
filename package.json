@@ -1,7 +1,7 @@
 {
   "name": "hero-io",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,6 +9,15 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "description": "A modern app store for downloading and managing applications.",
+  "keywords": [
+    "app store",
+    "application management",
+    "react",
+    "vite",
+    "tailwindcss"
+  ],
+  "author": "tirthorajmondal",
   "dependencies": {
     "@tailwindcss/vite": "^4.2.1",
     "react": "^19.2.4",

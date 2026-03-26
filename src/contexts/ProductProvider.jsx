@@ -45,8 +45,8 @@ const ProductProvider = ({ children }) => {
         // add new key for installed apps
         const updatedApp = { ...app, installed: true };
 
-        const newApps = products.map(p => p.id === app.id ? updatedApp : p);
-        setProducts(newApps);
+        // const newApps = products.map(p => p.id === app.id ? updatedApp : p);
+        // setProducts(newApps);
 
         localStorage.setItem('installedApps', JSON.stringify([...installed, updatedApp]));
         setInstalled([...installed, updatedApp]);
@@ -76,10 +76,14 @@ const ProductProvider = ({ children }) => {
 
     useEffect(() => {
         const loadApps = async () => {
-            setTimeout(() => {
-                fetchApps();
+            setLoading(true);
+            try {
+                await fetchApps();
+            } catch (error) {
+                console.error("Error fetching apps:", error);
+            } finally {
                 setLoading(false);
-            }, 1000);
+            }
         };
         setInstalled(JSON.parse(localStorage.getItem('installedApps') || '[]'))
 

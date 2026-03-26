@@ -5,12 +5,13 @@ import { LuDownload, LuMessageSquareQuote } from 'react-icons/lu';
 import { FaStar } from 'react-icons/fa';
 
 const AppDetails = () => {
-    const { fetchProductDetails, handleInstall } = useProducts();
+    const { fetchProductDetails, handleInstall, installed } = useProducts();
     const { id } = useParams()
 
     const app = fetchProductDetails(id) || {};
     const { title, companyName = '', downloads = '0', ratings = [], reviews = '0', description = '', size = '0', image } = app;
 
+    const isInstalled = installed.find(a => a.id === app.id);
     return (
         <div className="w-11/12 mx-auto space-y-5 py-20">
             <div className="flex lg:flex-row flex-col gap-5 items-stretch">
@@ -52,9 +53,9 @@ const AppDetails = () => {
                     </div>
                     <div className="">
                         <button
-                            disabled={app.installed}
+                            disabled={isInstalled}
                             onClick={() => handleInstall(app)}
-                            className={` btn shadow-xl hover:shadow-2xl btn-xl ${app.installed ? 'bg-[#00D390]/50':'bg-[#00D390]'}  text-white`}>{app.installed ? 'Installed' : `Install Now(${size} MB)`} </button>
+                            className={` btn shadow-xl hover:shadow-2xl btn-xl ${isInstalled ? 'bg-[#00D390]/50':'bg-[#00D390]'}  text-white`}>{isInstalled ? 'Installed' : `Install Now(${size} MB)`} </button>
                     </div>
                 </div>
             </div>
