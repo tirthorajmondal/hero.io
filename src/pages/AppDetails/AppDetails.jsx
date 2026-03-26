@@ -3,13 +3,27 @@ import useProducts from '../../hooks/useProducts';
 import ReviewChart from '../../components/ReviewChart/ReviewChart';
 import { LuDownload, LuMessageSquareQuote } from 'react-icons/lu';
 import { FaStar } from 'react-icons/fa';
+import Loading from '../../components/shared/Loading/Loading';
 
 const AppDetails = () => {
-    const { fetchProductDetails, handleInstall, installed } = useProducts();
+    const { fetchProductDetails, handleInstall, installed, loading } = useProducts();
     const { id } = useParams()
 
     const app = fetchProductDetails(id) || {};
     const { title, companyName = '', downloads = '0', ratings = [], reviews = '0', description = '', size = '0', image } = app;
+
+    if (loading) {
+        return <Loading />;
+    }
+
+    if (!app?.id) {
+        return (
+            <div className="w-11/12 mx-auto py-20 text-center space-y-3">
+                <h2 className="text-3xl font-bold text-primary">App Not Found</h2>
+                <p className="opacity-70">We could not find this app. Please check another application.</p>
+            </div>
+        );
+    }
 
     const isInstalled = installed.find(a => a.id === app.id);
     return (

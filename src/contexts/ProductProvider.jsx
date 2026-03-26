@@ -17,7 +17,7 @@ const ProductProvider = ({ children }) => {
 
     // fetch all apps as products (initial data)
     const fetchApps = async () => {
-        const res = await fetch('/final_data.json')
+        const res = await fetch('/data.json')
         const data = await res.json();
         setProducts(data);
 
@@ -50,7 +50,7 @@ const ProductProvider = ({ children }) => {
 
         localStorage.setItem('installedApps', JSON.stringify([...installed, updatedApp]));
         setInstalled([...installed, updatedApp]);
-        console.log(installed);
+        // console.log(installed);
         toast.success(`${app.title} successfully Installed!`)
     }
 
@@ -96,6 +96,7 @@ const ProductProvider = ({ children }) => {
         trending,
         fetchProductDetails,
         loading,
+        setLoading,
         searchProducts,
         sortProductsByRating,
         installed,

@@ -1,477 +1,851 @@
 [
     {
-        "image": "https://i.ibb.co.com/Vc5v6kGK/icon-090.webp",
-        "title": "App Limit - Limit apps",
-        "rating": 4.1,
-        "companyName": "productive.io",
-        "id": 86,
-        "description": "This app redefines the way you capture and organize ideas, notes, and information. Designed for professionals, students, and creatives, it provides a seamless environment where thoughts can be written, organized, and accessed instantly. You can create quick notes, detailed documents, or simple checklists, all within the same interface. Every note is automatically saved and synced across devices, so whether you\u2019re typing on your laptop, phone, or tablet, your information is always available.\n\n  What sets this app apart is its powerful organizational structure. Notes can be grouped into notebooks, tagged for easy searching, and linked to one another, creating a network of knowledge. This makes it especially useful for research, brainstorming, and long-term projects. A built-in search engine ensures you can retrieve any piece of information instantly, even if you\u2019ve written it months ago. The app also supports multimedia input: attach images, audio recordings, or even PDFs to notes for a richer context.\n\n  Collaboration features allow you to share notes with colleagues or classmates, making it easy to co-edit documents in real time. Integrated task checklists help transform notes into actionable plans. Offline support ensures you never lose access to your content, even without internet. With end-to-end encryption, the app also takes privacy seriously, making it safe for sensitive data.\n\n  For creatives, the app provides templates such as meeting notes, project outlines, and idea boards. For students, it\u2019s a reliable study companion where lecture notes, assignments, and references live together. With a minimalist yet functional design, the app keeps distractions away and lets you focus on what matters: your ideas. More than just a notebook, it is your personal knowledge base, designed to grow with you over time. It ensures your thoughts are never lost and always accessible when inspiration strikes.",
-        "size": 215,
-        "reviews": "39K",
-        "ratingAvg": 4.1,
-        "downloads": "7M",
+        "image": "https://i.ibb.co.com/5hTrt75W/icon-011.webp",
+        "title": "Habits Morning - Daily Routine Pro",
+        "rating": 4.8,
+        "companyName": "NovaSphere Tech",
+        "id": 7,
+        "description": "A comprehensive solution for all your professional and personal needs. Streamline your daily routine and boost efficiency like never before. Experience the next level of performance with our intuitive interface. Transform the way you work and play with our cutting-edge software. Simple to use yet packed with advanced technology for best results. Experience the next level of performance with our intuitive interface. Transform the way you work and play with our cutting-edge software. Stay organized and on top of your schedule with real-time updates. Streamline your daily routine and boost efficiency like never before. Simple to use yet packed with advanced technology for best results. Discover new possibilities and expand your horizons with this tool. Connect with friends and colleagues in a seamless digital environment. Unlock powerful features designed to help you succeed in every task. Experience the next level of performance with our intuitive interface. Transform the way you work and play with our cutting-edge software. Connect with friends and colleagues in a seamless digital environment. Unlock powerful features designed to help you succeed in every task. Streamline your daily routine and boost efficiency like never before. Transform the way you work and play with our cutting-edge software. Experience the next level of performance with our intuitive interface. Streamline your daily routine and boost efficiency like never before. Connect with friends and colleagues in a seamless digital environment. Experience the next level of performance with our intuitive interface. Unlock powerful features designed to help you succeed in every task. Stay organized and on top of your schedule with real-time updates. Streamline your daily",
+        "size": 99,
+        "reviews": "4.4K",
+        "ratingAvg": 4.8,
+        "downloads": "100K+",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 850
+                "count": 221
             },
             {
                 "name": "2 star",
-                "count": 850
+                "count": 221
             },
             {
                 "name": "3 star",
-                "count": 1700
+                "count": 443
             },
             {
                 "name": "4 star",
-                "count": 3400
+                "count": 886
             },
             {
                 "name": "5 star",
-                "count": 10200
+                "count": 2658
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/xtBjs9yJ/icon-016.webp",
+        "title": "Do WaterDo:To List & Schedule Max",
+        "rating": 4.0,
+        "companyName": "Elevate Tech",
+        "id": 12,
+        "description": "A comprehensive solution for all your professional and personal needs. A comprehensive solution for all your professional and personal needs. Experience the next level of performance with our intuitive interface. Streamline your daily routine and boost efficiency like never before. Discover new possibilities and expand your horizons with this tool. Connect with friends and colleagues in a seamless digital environment. Streamline your daily routine and boost efficiency like never before. Join millions of users who trust us for their daily digital activities. A comprehensive solution for all your professional and personal needs. Stay organized and on top of your schedule with real-time updates. Join millions of users who trust us for their daily digital activities. A comprehensive solution for all your professional and personal needs. Join millions of users who trust us for their daily digital activities. Streamline your daily routine and boost efficiency like never before. Simple to use yet packed with advanced technology for best results. Transform the way you work and play with our cutting-edge software. Connect with friends and colleagues in a seamless digital environment. Transform the way you work and play with our cutting-edge software. Join millions of users who trust us for their daily digital activities. A comprehensive solution for all your professional and personal needs. Experience the next level of performance with our intuitive interface. Simple to use yet packed with advanced technology for best results. Simple to use yet packed with advanced technology for best results. Join millions of users who trust us for their daily digital activities. Unlock powerful features designed to help you succeed in every task. Discover new possibilities and expand your",
+        "size": 424,
+        "reviews": "2205.7K",
+        "ratingAvg": 4.0,
+        "downloads": "50M+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 220570
+            },
+            {
+                "name": "2 star",
+                "count": 220570
+            },
+            {
+                "name": "3 star",
+                "count": 441140
+            },
+            {
+                "name": "4 star",
+                "count": 661710
+            },
+            {
+                "name": "5 star",
+                "count": 661710
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/d0j3SFVN/icon-019.webp",
+        "title": "- Disciplined Habit Tracker Lite",
+        "rating": 4.7,
+        "companyName": "Vortex Systems",
+        "id": 15,
+        "description": "Experience the next level of performance with our intuitive interface. Unlock powerful features designed to help you succeed in every task. A comprehensive solution for all your professional and personal needs. Unlock powerful features designed to help you succeed in every task. Stay organized and on top of your schedule with real-time updates. Experience the next level of performance with our intuitive interface. Discover new possibilities and expand your horizons with this tool. A comprehensive solution for all your professional and personal needs. Join millions of users who trust us for their daily digital activities. Connect with friends and colleagues in a seamless digital environment. A comprehensive solution for all your professional and personal needs. Stay organized and on top of your schedule with real-time updates. Connect with friends and colleagues in a seamless digital environment. Experience the next level of performance with our intuitive interface. Experience the next level of performance with our intuitive interface. Connect with friends and colleagues in a seamless digital environment. Unlock powerful features designed to help you succeed in every task. Discover new possibilities and expand your horizons with this tool. Transform the way you work and play with our cutting-edge software. Stay organized and on top of your schedule with real-time updates. Simple to use yet packed with advanced technology for best results. Connect with friends and colleagues in a seamless digital environment. Unlock powerful features designed to help you succeed in every task. Streamline your daily routine and boost efficiency like never before. Stay organized and on top of your schedule with real-time updates. Stay organized and on top of your schedule with real-tim",
+        "size": 306,
+        "reviews": "1768.1K",
+        "ratingAvg": 4.7,
+        "downloads": "50M+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 88404
+            },
+            {
+                "name": "2 star",
+                "count": 88404
+            },
+            {
+                "name": "3 star",
+                "count": 176809
+            },
+            {
+                "name": "4 star",
+                "count": 353618
+            },
+            {
+                "name": "5 star",
+                "count": 1060856
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/gLFc29YS/icon-036.webp",
+        "title": "Focus YourStep: Study Calendar Plus",
+        "rating": 4.8,
+        "companyName": "Quantum Mobile",
+        "id": 32,
+        "description": "Unlock powerful features designed to help you succeed in every task. Join millions of users who trust us for their daily digital activities. Join millions of users who trust us for their daily digital activities. Simple to use yet packed with advanced technology for best results. A comprehensive solution for all your professional and personal needs. Experience the next level of performance with our intuitive interface. Connect with friends and colleagues in a seamless digital environment. Discover new possibilities and expand your horizons with this tool. Simple to use yet packed with advanced technology for best results. A comprehensive solution for all your professional and personal needs. Experience the next level of performance with our intuitive interface. Join millions of users who trust us for their daily digital activities. Transform the way you work and play with our cutting-edge software. A comprehensive solution for all your professional and personal needs. Connect with friends and colleagues in a seamless digital environment. Simple to use yet packed with advanced technology for best results. Unlock powerful features designed to help you succeed in every task. Transform the way you work and play with our cutting-edge software. A comprehensive solution for all your professional and personal needs. Join millions of users who trust us for their daily digital activities. Experience the next level of performance with our intuitive interface. Discover new possibilities and expand your horizons with this tool. A comprehensive solution for all your professional and personal needs. Connect with friends and colleagues in a seamless digital environment. Simple to use yet packed with advanced technology for best results. Stay organized and on top of your schedule with real-time updates. Stay organized and on top of your schedule with real-time updates. Experience the next level of performance w",
+        "size": 202,
+        "reviews": "709.4K",
+        "ratingAvg": 4.8,
+        "downloads": "50M+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 35469
+            },
+            {
+                "name": "2 star",
+                "count": 35469
+            },
+            {
+                "name": "3 star",
+                "count": 70938
+            },
+            {
+                "name": "4 star",
+                "count": 141877
+            },
+            {
+                "name": "5 star",
+                "count": 425631
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/prZ1jPyZ/icon-042.webp",
+        "title": "Planner Weekly - Diary, Notes Max",
+        "rating": 4.6,
+        "companyName": "Vortex Systems",
+        "id": 38,
+        "description": "Connect with friends and colleagues in a seamless digital environment. Discover new possibilities and expand your horizons with this tool. Simple to use yet packed with advanced technology for best results. Transform the way you work and play with our cutting-edge software. Join millions of users who trust us for their daily digital activities. Simple to use yet packed with advanced technology for best results. Join millions of users who trust us for their daily digital activities. Streamline your daily routine and boost efficiency like never before. Streamline your daily routine and boost efficiency like never before. Streamline your daily routine and boost efficiency like never before. Experience the next level of performance with our intuitive interface. Simple to use yet packed with advanced technology for best results. Streamline your daily routine and boost efficiency like never before. A comprehensive solution for all your professional and personal needs. Transform the way you work and play with our cutting-edge software. Simple to use yet packed with advanced technology for best results. Discover new possibilities and expand your horizons with this tool. Discover new possibilities and expand your horizons with this tool. Connect with friends and colleagues in a seamless digital environment. A comprehensive solution for all your professional and personal needs. Unlock powerful features designed to help you succeed in every task. Join millions of users who trust us for their daily digital activities. Join millions of users who trust us for their daily digital activities. Stay organized and on top of your schedule with real-time updates. Join millions of users who trust us for their daily digital activities. Transform the way you work and play with our cutting-edge software. Join millions of users who trust us for their daily digital activities. Streamline your daily routine and boost efficiency like never before. Exp",
+        "size": 151,
+        "reviews": "133.5K",
+        "ratingAvg": 4.6,
+        "downloads": "10M+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 6676
+            },
+            {
+                "name": "2 star",
+                "count": 6676
+            },
+            {
+                "name": "3 star",
+                "count": 13353
+            },
+            {
+                "name": "4 star",
+                "count": 26707
+            },
+            {
+                "name": "5 star",
+                "count": 80122
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/jZZMDxkd/icon-045.webp",
+        "title": "Organizer Life - Journal it! Elite",
+        "rating": 3.8,
+        "companyName": "Quantum Mobile",
+        "id": 41,
+        "description": "Transform the way you work and play with our cutting-edge software. Streamline your daily routine and boost efficiency like never before. A comprehensive solution for all your professional and personal needs. Connect with friends and colleagues in a seamless digital environment. Connect with friends and colleagues in a seamless digital environment. Streamline your daily routine and boost efficiency like never before. Experience the next level of performance with our intuitive interface. Stay organized and on top of your schedule with real-time updates. Unlock powerful features designed to help you succeed in every task. Stay organized and on top of your schedule with real-time updates. Connect with friends and colleagues in a seamless digital environment. Discover new possibilities and expand your horizons with this tool. A comprehensive solution for all your professional and personal needs. Unlock powerful features designed to help you succeed in every task. Transform the way you work and play with our cutting-edge software. Connect with friends and colleagues in a seamless digital environment. Simple to use yet packed with advanced technology for best results. Simple to use yet packed with advanced technology for best results. Join millions of users who trust us for their daily digital activities. Join millions of users who trust us for their daily digital activities. Join millions of users who trust us for their daily digital activities. Unlock powerful features designed to help you succeed in every task. Simple to use yet packed with advanced technology for best results. Experience the next level of performance with our intuiti",
+        "size": 329,
+        "reviews": "3.3K",
+        "ratingAvg": 3.8,
+        "downloads": "100K+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 328
+            },
+            {
+                "name": "2 star",
+                "count": 328
+            },
+            {
+                "name": "3 star",
+                "count": 656
+            },
+            {
+                "name": "4 star",
+                "count": 984
+            },
+            {
+                "name": "5 star",
+                "count": 984
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/ZzsDVfZZ/icon-047.webp",
+        "title": "Goal Avocation & Habit Tracker Pro",
+        "rating": 4.0,
+        "companyName": "SwiftCore Studios",
+        "id": 43,
+        "description": "Connect with friends and colleagues in a seamless digital environment. Experience the next level of performance with our intuitive interface. Unlock powerful features designed to help you succeed in every task. Discover new possibilities and expand your horizons with this tool. Streamline your daily routine and boost efficiency like never before. Experience the next level of performance with our intuitive interface. Join millions of users who trust us for their daily digital activities. Streamline your daily routine and boost efficiency like never before. Transform the way you work and play with our cutting-edge software. Transform the way you work and play with our cutting-edge software. Discover new possibilities and expand your horizons with this tool. Join millions of users who trust us for their daily digital activities. Join millions of users who trust us for their daily digital activities. Streamline your daily routine and boost efficiency like never before. Experience the next level of performance with our intuitive interface. Connect with friends and colleagues in a seamless digital environment. Transform the way you work and play with our cutting-edge software. Simple to use yet packed with advanced technology for best results. Stay organized and on top of your schedule with real-time updates. Stay organized and on top of your schedule with real-time updates. A comprehensive solution for all your professional and personal needs. Experience the next level of performance with our intuitive interface. Connect with friends and colleagues in a seamless digital environment. Discover new possibilities and expand your horizons with this tool. A comprehensive solution for all your professional and personal needs. Unlock powerful features designed to help you succeed in every task. Simple to use yet packed with advanced technology for best results. Connect with friends and colleagues in a seamle",
+        "size": 203,
+        "reviews": "9.9K",
+        "ratingAvg": 4.0,
+        "downloads": "500K+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 986
+            },
+            {
+                "name": "2 star",
+                "count": 986
+            },
+            {
+                "name": "3 star",
+                "count": 1973
+            },
+            {
+                "name": "4 star",
+                "count": 2960
+            },
+            {
+                "name": "5 star",
+                "count": 2960
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/hxB2txzD/icon-053.webp",
+        "title": "Calendar Business 2 Planner Pro",
+        "rating": 3.9,
+        "companyName": "CloudStream Apps",
+        "id": 49,
+        "description": "Join millions of users who trust us for their daily digital activities. Discover new possibilities and expand your horizons with this tool. Connect with friends and colleagues in a seamless digital environment. Simple to use yet packed with advanced technology for best results. Connect with friends and colleagues in a seamless digital environment. Join millions of users who trust us for their daily digital activities. A comprehensive solution for all your professional and personal needs. Join millions of users who trust us for their daily digital activities. Unlock powerful features designed to help you succeed in every task. Experience the next level of performance with our intuitive interface. Simple to use yet packed with advanced technology for best results. Join millions of users who trust us for their daily digital activities. Streamline your daily routine and boost efficiency like never before. Experience the next level of performance with our intuitive interface. Simple to use yet packed with advanced technology for best results. Connect with friends and colleagues in a seamless digital environment. Unlock powerful features designed to help you succeed in every task. Unlock powerful features designed to help you succeed in every task. Stay organized and on top of your schedule with real-time updates. Connect with friends and colleagues in a seamless digital environment. Streamline your daily routine and boost efficiency like never before. Unlock powerful features designed to help you succeed in every task. A comprehensive solution for all your professional and personal needs. Streamline your daily routine and boost efficiency like never before. Join millions of users who trust us for their daily digital activities. Experience the next level of performance with our intuitive interface. A comprehensive solution for all your professional and personal needs. Join millions of users who trust us for their daily digital activities. ",
+        "size": 346,
+        "reviews": "415.3K",
+        "ratingAvg": 3.9,
+        "downloads": "10M+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 41525
+            },
+            {
+                "name": "2 star",
+                "count": 41525
+            },
+            {
+                "name": "3 star",
+                "count": 83050
+            },
+            {
+                "name": "4 star",
+                "count": 124576
+            },
+            {
+                "name": "5 star",
+                "count": 124576
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/KptCCMSq/icon-059.webp",
+        "title": "Pomodoro Striving: study timer Go",
+        "rating": 4.7,
+        "companyName": "Global Connect Inc.",
+        "id": 55,
+        "description": "Join millions of users who trust us for their daily digital activities. Transform the way you work and play with our cutting-edge software. Experience the next level of performance with our intuitive interface. Experience the next level of performance with our intuitive interface. Connect with friends and colleagues in a seamless digital environment. Transform the way you work and play with our cutting-edge software. Stay organized and on top of your schedule with real-time updates. A comprehensive solution for all your professional and personal needs. Experience the next level of performance with our intuitive interface. Experience the next level of performance with our intuitive interface. Stay organized and on top of your schedule with real-time updates. Simple to use yet packed with advanced technology for best results. A comprehensive solution for all your professional and personal needs. Simple to use yet packed with advanced technology for best results. Experience the next level of performance with our intuitive interface. Transform the way you work and play with our cutting-edge software. Transform the way you work and play with our cutting-edge software. Streamline your daily routine and boost efficiency like never before. Discover new possibilities and expand your horizons with this tool. Join millions of users who trust us for their daily digital activities. Transform the way you work and play with our cutting-edge software. Join millions of users who trust us for their daily digital activities. Join millions of users who trust us for their daily digital activities. Experience the next level of performance with our intuitive interface. Connect with friends and colleagues in a seamless digital environment. Discover new possibilities and expand your horizons with this tool. Join millions of users who trust us for their daily digital activities. Join millions of users who trust us for their daily digital act",
+        "size": 418,
+        "reviews": "3.2K",
+        "ratingAvg": 4.7,
+        "downloads": "100K+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 160
+            },
+            {
+                "name": "2 star",
+                "count": 160
+            },
+            {
+                "name": "3 star",
+                "count": 320
+            },
+            {
+                "name": "4 star",
+                "count": 640
+            },
+            {
+                "name": "5 star",
+                "count": 1922
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/Z6w2GJH4/icon-062.webp",
+        "title": "- TimeTree Shared Calendar Plus",
+        "rating": 4.4,
+        "companyName": "NovaSphere Tech",
+        "id": 58,
+        "description": "Unlock powerful features designed to help you succeed in every task. Simple to use yet packed with advanced technology for best results. Experience the next level of performance with our intuitive interface. Discover new possibilities and expand your horizons with this tool. Stay organized and on top of your schedule with real-time updates. Transform the way you work and play with our cutting-edge software. Streamline your daily routine and boost efficiency like never before. A comprehensive solution for all your professional and personal needs. Experience the next level of performance with our intuitive interface. Stay organized and on top of your schedule with real-time updates. Stay organized and on top of your schedule with real-time updates. Transform the way you work and play with our cutting-edge software. A comprehensive solution for all your professional and personal needs. Transform the way you work and play with our cutting-edge software. Unlock powerful features designed to help you succeed in every task. Simple to use yet packed with advanced technology for best results. Join millions of users who trust us for their daily digital activities. Unlock powerful features designed to help you succeed in every task. A comprehensive solution for all your professional and personal needs. A comprehensive solution for all your professional and personal needs. Connect with friends and colleagues in a seamless digital environment. Streamline your daily routine and boost efficiency like never before. A comprehensive solution for all your professional and personal needs. Streamline your daily routine and boost efficiency like never before. Stay organized and on top of your schedule with real-time updates. A comprehensive solution for all your professional and personal needs. A comprehensive solution for all your professional and personal needs. Join millions of users who trust us for their daily digital activities. Unlock po",
+        "size": 246,
+        "reviews": "41.3K",
+        "ratingAvg": 4.4,
+        "downloads": "1M+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2067
+            },
+            {
+                "name": "2 star",
+                "count": 2067
+            },
+            {
+                "name": "3 star",
+                "count": 4134
+            },
+            {
+                "name": "4 star",
+                "count": 8268
+            },
+            {
+                "name": "5 star",
+                "count": 24804
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/xKWjNxDh/icon-067.webp",
+        "title": "Productivity Ratio: Homescreen Pro",
+        "rating": 4.2,
+        "companyName": "Zenith Digital",
+        "id": 63,
+        "description": "A comprehensive solution for all your professional and personal needs. Unlock powerful features designed to help you succeed in every task. A comprehensive solution for all your professional and personal needs. Connect with friends and colleagues in a seamless digital environment. Discover new possibilities and expand your horizons with this tool. Simple to use yet packed with advanced technology for best results. Transform the way you work and play with our cutting-edge software. Transform the way you work and play with our cutting-edge software. Join millions of users who trust us for their daily digital activities. Simple to use yet packed with advanced technology for best results. Simple to use yet packed with advanced technology for best results. Streamline your daily routine and boost efficiency like never before. Discover new possibilities and expand your horizons with this tool. Discover new possibilities and expand your horizons with this tool. Discover new possibilities and expand your horizons with this tool. Discover new possibilities and expand your horizons with this tool. Unlock powerful features designed to help you succeed in every task. Streamline your daily routine and boost efficiency like never before. Experience the next level of performance with our intuitive interface. Transform the way you work and play with our cutting-edge software. Stay organized and on top of your schedule with real-time updates. A comprehensive solution for all your professional and personal needs. Discover new possibilities and expand your horizons with this tool. Stay organized and on top of your schedule with real-time updates. A comprehensive solution for all your professional and personal needs. Transform the way you work and play with our cutting-edge software. Transform the way you work and play with our cutting-edge software. Join millions of users who trust us for their daily digital activities. Transform the w",
+        "size": 378,
+        "reviews": "8.2K",
+        "ratingAvg": 4.2,
+        "downloads": "500K+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 408
+            },
+            {
+                "name": "2 star",
+                "count": 408
+            },
+            {
+                "name": "3 star",
+                "count": 816
+            },
+            {
+                "name": "4 star",
+                "count": 1633
+            },
+            {
+                "name": "5 star",
+                "count": 4900
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/hFkT0njf/icon-074.webp",
+        "title": "- Evernote Note Organizer Lite",
+        "rating": 4.8,
+        "companyName": "Spark Digital",
+        "id": 70,
+        "description": "Experience the next level of performance with our intuitive interface. A comprehensive solution for all your professional and personal needs. Experience the next level of performance with our intuitive interface. Experience the next level of performance with our intuitive interface. Connect with friends and colleagues in a seamless digital environment. Stay organized and on top of your schedule with real-time updates. A comprehensive solution for all your professional and personal needs. Stay organized and on top of your schedule with real-time updates. A comprehensive solution for all your professional and personal needs. Stay organized and on top of your schedule with real-time updates. Discover new possibilities and expand your horizons with this tool. Unlock powerful features designed to help you succeed in every task. Streamline your daily routine and boost efficiency like never before. Simple to use yet packed with advanced technology for best results. Streamline your daily routine and boost efficiency like never before. Stay organized and on top of your schedule with real-time updates. Streamline your daily routine and boost efficiency like never before. Simple to use yet packed with advanced technology for best results. Streamline your daily routine and boost efficiency like never before. Discover new possibilities and expand your horizons with this tool. Discover new possibilities and expand your horizons with this tool. Join millions of users who trust us for their daily digital activities. Simple to use yet packed with advanced technology for best results. Unlock powerful features designed to help you succeed in every task. A comprehensive solution for all your professional and personal needs. Unlock powerful features designed to help you succeed in every task. Experience the next level of performance with our intuitive interface. Connect with friends and colleagues in a seamless digital environment. A comprehen",
+        "size": 401,
+        "reviews": "12.8K",
+        "ratingAvg": 4.8,
+        "downloads": "500K+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 640
+            },
+            {
+                "name": "2 star",
+                "count": 640
+            },
+            {
+                "name": "3 star",
+                "count": 1281
+            },
+            {
+                "name": "4 star",
+                "count": 2562
+            },
+            {
+                "name": "5 star",
+                "count": 7687
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/jZfYh2P7/icon-080.webp",
+        "title": "Habit Hizo: Tracker & Todo Max",
+        "rating": 4.7,
+        "companyName": "Ironclad Apps",
+        "id": 76,
+        "description": "A comprehensive solution for all your professional and personal needs. Transform the way you work and play with our cutting-edge software. Connect with friends and colleagues in a seamless digital environment. Experience the next level of performance with our intuitive interface. Discover new possibilities and expand your horizons with this tool. Discover new possibilities and expand your horizons with this tool. Simple to use yet packed with advanced technology for best results. Discover new possibilities and expand your horizons with this tool. A comprehensive solution for all your professional and personal needs. A comprehensive solution for all your professional and personal needs. Streamline your daily routine and boost efficiency like never before. Experience the next level of performance with our intuitive interface. Simple to use yet packed with advanced technology for best results. Unlock powerful features designed to help you succeed in every task. Experience the next level of performance with our intuitive interface. Join millions of users who trust us for their daily digital activities. Stay organized and on top of your schedule with real-time updates. Unlock powerful features designed to help you succeed in every task. Experience the next level of performance with our intuitive interface. Discover new possibilities and expand your horizons with this tool. Connect with friends and colleagues in a seamless digital environment. Streamline your daily routine and boost efficiency like never before. Connect with friends and colleagues in a seamless digital environment. Discover new possibilities and expand your horizons with this tool. Discover new possibilities and expand your horizons with this tool. Discover new possibilities and expand your horizons with",
+        "size": 418,
+        "reviews": "7.7K",
+        "ratingAvg": 4.7,
+        "downloads": "500K+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 382
+            },
+            {
+                "name": "2 star",
+                "count": 382
+            },
+            {
+                "name": "3 star",
+                "count": 765
+            },
+            {
+                "name": "4 star",
+                "count": 1531
+            },
+            {
+                "name": "5 star",
+                "count": 4593
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/yF6sVYZZ/icon-082.webp",
+        "title": "Mind Nice Map - Mind mapping Lite",
+        "rating": 3.9,
+        "companyName": "Silverline Software",
+        "id": 78,
+        "description": "Unlock powerful features designed to help you succeed in every task. Stay organized and on top of your schedule with real-time updates. Transform the way you work and play with our cutting-edge software. Join millions of users who trust us for their daily digital activities. Streamline your daily routine and boost efficiency like never before. Stay organized and on top of your schedule with real-time updates. A comprehensive solution for all your professional and personal needs. Experience the next level of performance with our intuitive interface. Connect with friends and colleagues in a seamless digital environment. Stay organized and on top of your schedule with real-time updates. Stay organized and on top of your schedule with real-time updates. Simple to use yet packed with advanced technology for best results. Streamline your daily routine and boost efficiency like never before. Stay organized and on top of your schedule with real-time updates. Streamline your daily routine and boost efficiency like never before. Stay organized and on top of your schedule with real-time updates. Discover new possibilities and expand your horizons with this tool. Discover new possibilities and expand your horizons with this tool. Connect with friends and colleagues in a seamless digital environment. A comprehensive solution for all your professional and personal needs. Stay organized and on top of your schedule with real-time updates. Simple to use yet packed with advanced technology for best results. A comprehensive solution for all your professional and personal needs. A comprehensive solution for all your professional and personal needs. Streamline your daily routine and boost efficiency like never before. Stay organized and on top of your schedule with real-time updates. Experience the next level of performance with our intuitive interface. Streamline your daily routine and boost efficiency like never before. Experience the next l",
+        "size": 447,
+        "reviews": "473.2K",
+        "ratingAvg": 3.9,
+        "downloads": "10M+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 47319
+            },
+            {
+                "name": "2 star",
+                "count": 47319
+            },
+            {
+                "name": "3 star",
+                "count": 94638
+            },
+            {
+                "name": "4 star",
+                "count": 141957
+            },
+            {
+                "name": "5 star",
+                "count": 141957
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/tMT0VPfX/icon-084.webp",
+        "title": "Notes, Notion: Tasks, AI Elite",
+        "rating": 4.9,
+        "companyName": "NovaSphere Tech",
+        "id": 80,
+        "description": "Unlock powerful features designed to help you succeed in every task. Stay organized and on top of your schedule with real-time updates. Simple to use yet packed with advanced technology for best results. Discover new possibilities and expand your horizons with this tool. Connect with friends and colleagues in a seamless digital environment. Discover new possibilities and expand your horizons with this tool. Connect with friends and colleagues in a seamless digital environment. Connect with friends and colleagues in a seamless digital environment. Discover new possibilities and expand your horizons with this tool. A comprehensive solution for all your professional and personal needs. Connect with friends and colleagues in a seamless digital environment. Discover new possibilities and expand your horizons with this tool. Connect with friends and colleagues in a seamless digital environment. Stay organized and on top of your schedule with real-time updates. Discover new possibilities and expand your horizons with this tool. Unlock powerful features designed to help you succeed in every task. Discover new possibilities and expand your horizons with this tool. Simple to use yet packed with advanced technology for best results. Discover new possibilities and expand your horizons with this tool. Simple to use yet packed with advanced technology for best results. Connect with friends and colleagues in a seamless digital environment. Unlock powerful features designed to help you succeed in every task. Experience the next level of performance with our intuitive interface. Join millions of users who trust us for their daily digital activities. Experience the next level of performance with our intuitive interface. Simple to use yet packed with advanced technology for best results. Transform the way you work and play with our cutting-edge software. Unlock powerful features designed to help you succeed in every task. Experience the next level of p",
+        "size": 145,
+        "reviews": "19.8K",
+        "ratingAvg": 4.9,
+        "downloads": "1M+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 990
+            },
+            {
+                "name": "2 star",
+                "count": 990
+            },
+            {
+                "name": "3 star",
+                "count": 1981
+            },
+            {
+                "name": "4 star",
+                "count": 3963
+            },
+            {
+                "name": "5 star",
+                "count": 11889
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/Csv56wps/icon-088.webp",
+        "title": "More Quizlet: than Flashcards Lite",
+        "rating": 4.2,
+        "companyName": "LogicGate Systems",
+        "id": 84,
+        "description": "Experience the next level of performance with our intuitive interface. Discover new possibilities and expand your horizons with this tool. Join millions of users who trust us for their daily digital activities. A comprehensive solution for all your professional and personal needs. Join millions of users who trust us for their daily digital activities. Experience the next level of performance with our intuitive interface. A comprehensive solution for all your professional and personal needs. Simple to use yet packed with advanced technology for best results. Unlock powerful features designed to help you succeed in every task. Transform the way you work and play with our cutting-edge software. Unlock powerful features designed to help you succeed in every task. Join millions of users who trust us for their daily digital activities. Simple to use yet packed with advanced technology for best results. Unlock powerful features designed to help you succeed in every task. Streamline your daily routine and boost efficiency like never before. Unlock powerful features designed to help you succeed in every task. A comprehensive solution for all your professional and personal needs. Experience the next level of performance with our intuitive interface. Join millions of users who trust us for their daily digital activities. Unlock powerful features designed to help you succeed in every task. Discover new possibilities and expand your horizons with this tool. Experience the next level of performance with our intuitive interface. Streamline your daily routine and boost efficiency like never before. Connect with friends and colleagues in a seamless digital environment. Stay organized and on top of your schedule with real-time updates. A comprehensive solution for all your professio",
+        "size": 319,
+        "reviews": "145.5K",
+        "ratingAvg": 4.2,
+        "downloads": "10M+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 7277
+            },
+            {
+                "name": "2 star",
+                "count": 7277
+            },
+            {
+                "name": "3 star",
+                "count": 14554
+            },
+            {
+                "name": "4 star",
+                "count": 29109
+            },
+            {
+                "name": "5 star",
+                "count": 87328
             }
         ]
     },
     {
         "image": "https://i.ibb.co.com/Y46hBxJn/icon-091.webp",
-        "title": "Alarm Clock",
-        "rating": 4.5,
-        "companyName": "productive.io",
+        "title": "Clock Alarm Go",
+        "rating": 3.8,
+        "companyName": "Nexus Software Group",
         "id": 87,
-        "description": "This app takes a different approach to productivity by focusing on motivation and gamification. It understands that staying consistent is often harder than starting. By turning tasks and goals into interactive challenges, it keeps users engaged and inspired. Each completed task earns you points, achievements, or rewards that unlock new levels, making productivity feel like a game. The more consistent you are, the more progress you see on your personal dashboard.\n\n  The app allows you to customize challenges based on your lifestyle, whether it\u2019s completing daily workouts, finishing study sessions, or achieving professional goals. You can compete with friends or join global leaderboards, adding a healthy dose of competition. This social aspect encourages accountability and makes staying productive less lonely.\n\n  Motivational tools are built in, such as streaks, milestone badges, and progress trackers. Personalized reminders encourage you without being intrusive. The app also adapts to your progress\u2014if you\u2019re falling behind, it suggests smaller, manageable steps to help you regain momentum. For those who thrive on rewards, the app can even be linked to real-life incentives like gift cards or discounts.\n\n  The design is colorful and engaging, using visuals that feel more like a game than a boring planner. Yet beneath the fun interface, it tracks serious data about your productivity habits. Over time, you can analyze patterns and understand what keeps you motivated. By combining behavioral psychology with gamification, this app bridges the gap between intention and action. It makes self-improvement exciting, sustainable, and enjoyable.",
-        "size": 218,
-        "reviews": "45K",
-        "ratingAvg": 4.5,
-        "downloads": "7M",
+        "description": "Unlock powerful features designed to help you succeed in every task. Connect with friends and colleagues in a seamless digital environment. Unlock powerful features designed to help you succeed in every task. Join millions of users who trust us for their daily digital activities. Simple to use yet packed with advanced technology for best results. Stay organized and on top of your schedule with real-time updates. Join millions of users who trust us for their daily digital activities. Simple to use yet packed with advanced technology for best results. Transform the way you work and play with our cutting-edge software. Experience the next level of performance with our intuitive interface. Simple to use yet packed with advanced technology for best results. Experience the next level of performance with our intuitive interface. Stay organized and on top of your schedule with real-time updates. Experience the next level of performance with our intuitive interface. Connect with friends and colleagues in a seamless digital environment. Discover new possibilities and expand your horizons with this tool. Discover new possibilities and expand your horizons with this tool. Unlock powerful features designed to help you succeed in every task. Experience the next level of performance with our intuitive interface. Connect with friends and colleagues in a seamless digital environment. Simple to use yet packed with advanced technology for best results. Unlock powerful features designed to help you succeed in every task. A comprehensive solution for all your professional and personal needs. A comprehensive solution for all your professional and person",
+        "size": 219,
+        "reviews": "223.0K",
+        "ratingAvg": 3.8,
+        "downloads": "5M+",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 850
+                "count": 22298
             },
             {
                 "name": "2 star",
-                "count": 850
+                "count": 22298
             },
             {
                 "name": "3 star",
-                "count": 1700
+                "count": 44596
             },
             {
                 "name": "4 star",
-                "count": 3400
+                "count": 66895
             },
             {
                 "name": "5 star",
-                "count": 10200
-            }
-        ]
-    },
-    {
-        "image": "https://i.ibb.co.com/Vc12k67F/icon-092.webp",
-        "title": "Calendar \u2013 Smart Scheduler",
-        "rating": 4.1,
-        "companyName": "productive.io",
-        "id": 88,
-        "description": "This productivity app is designed for lifelong learners who want to capture, organize, and retain knowledge efficiently. It combines reading, note-taking, and spaced repetition to make learning a structured and enjoyable process. You can save articles, videos, and resources from across the web into a clean, distraction-free library. Built-in highlighting and annotation tools let you capture key insights as you read. Notes are automatically linked to the original source, keeping context intact.\n\n  What makes the app powerful is its integration of spaced repetition algorithms. Important notes can be turned into flashcards, and the app reminds you to review them at scientifically optimized intervals, ensuring long-term retention. This makes it ideal for students, professionals preparing for certifications, or anyone passionate about continuous learning. A personal knowledge graph visually connects related ideas, helping you see the bigger picture.\n\n  Collaboration features let you share resources or co-create study libraries with peers. Offline mode ensures you can study anytime, anywhere. With advanced search and categorization, your personal knowledge base grows without ever becoming cluttered. Insights and progress reports show how much you\u2019ve learned and how consistent you\u2019ve been.\n\n  By combining resource organization, active recall, and collaboration, this app turns scattered learning into a structured journey. Whether you\u2019re mastering a language, keeping up with industry research, or exploring personal interests, it becomes your personal learning companion. It\u2019s not just about consuming information\u2014it\u2019s about retaining, applying, and growing your knowledge over time. This app empowers you to be a smarter, more capable version of yourself every single day.",
-        "size": 291,
-        "reviews": "33K",
-        "ratingAvg": 4.1,
-        "downloads": "1M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 850
-            },
-            {
-                "name": "2 star",
-                "count": 850
-            },
-            {
-                "name": "3 star",
-                "count": 1700
-            },
-            {
-                "name": "4 star",
-                "count": 3400
-            },
-            {
-                "name": "5 star",
-                "count": 10200
-            }
-        ]
-    },
-    {
-        "image": "https://i.ibb.co.com/hFdkQpkp/icon-093.webp",
-        "title": "Insight Timer - Meditation App",
-        "rating": 4.7,
-        "companyName": "productive.io",
-        "id": 89,
-        "description": "This productivity app is designed for anyone who struggles with organizing daily responsibilities and long-term projects. It allows users to create tasks, group them into categories, and assign deadlines so nothing important slips through the cracks. The clean interface makes adding and editing tasks incredibly simple, ensuring that you spend less time managing your to-do list and more time actually getting things done. With reminders and notifications, the app gently nudges you to stay on track without feeling overwhelming. Users can also break down big goals into smaller, manageable steps, making it easier to stay motivated and see real progress.\n\n  Beyond personal use, the app supports team collaboration. You can share tasks with colleagues, assign responsibilities, and monitor progress in real time. This is particularly useful for remote workers and small businesses looking for a lightweight project management solution. Tasks can be prioritized, color-coded, and filtered so you always know what needs attention first. Another powerful feature is recurring tasks, which helps automate routines like weekly reports or monthly check-ins.\n\n  The app also integrates with popular calendars and cloud storage platforms, keeping everything in sync across devices. Whether you\u2019re on your phone, tablet, or computer, your tasks are always up to date. For those who like to analyze productivity, detailed reports show how much time you\u2019re spending on different categories, helping identify areas for improvement. By combining simplicity with powerful features, this task manager empowers individuals and teams to stay organized, focused, and efficient. Whether you\u2019re managing personal errands, professional projects, or a mix of both, this app acts like your personal assistant that never forgets. It\u2019s the perfect balance of flexibility, structure, and ease of use to help anyone achieve their goals more effectively.",
-        "size": 233,
-        "reviews": "30K",
-        "ratingAvg": 4.7,
-        "downloads": "5M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 850
-            },
-            {
-                "name": "2 star",
-                "count": 850
-            },
-            {
-                "name": "3 star",
-                "count": 1700
-            },
-            {
-                "name": "4 star",
-                "count": 3400
-            },
-            {
-                "name": "5 star",
-                "count": 10200
+                "count": 66895
             }
         ]
     },
     {
         "image": "https://i.ibb.co.com/cSmsjRN5/icon-094.webp",
-        "title": "I am - Daily affirmations",
-        "rating": 4.9,
-        "companyName": "productive.io",
+        "title": "am I - Daily affirmations Elite",
+        "rating": 4.4,
+        "companyName": "Vortex Systems",
         "id": 90,
-        "description": "This calendar and planner app is more than just a place to mark dates\u2014it is a full productivity system that helps you structure your time effectively. At its core, it offers a clear and customizable calendar where you can add events, deadlines, and reminders. But beyond that, it integrates goal setting, time blocking, and milestone tracking to give you a big-picture view of your schedule. With daily, weekly, and monthly views, you can plan in detail or zoom out to see your long-term trajectory.\n\n  The app supports smart scheduling by analyzing your availability and suggesting the best time slots for important tasks. It can even detect potential conflicts and propose adjustments, ensuring your plan is realistic and manageable. Integration with email, cloud services, and task managers keeps everything centralized. Notifications remind you not only of meetings but also of preparation time, helping you stay ahead.\n\n  Visual design is a standout feature, with color-coded events, drag-and-drop rescheduling, and customizable layouts. Users can assign different categories to events, like work, personal, or fitness, making it easy to balance priorities. Recurring events and task linking ensure repetitive responsibilities are never forgotten. Collaboration features allow team members to view shared calendars, making it ideal for group projects, families, or small businesses.\n\n  Another highlight is reflective planning. The app provides weekly reviews that show how much time was allocated to each category, helping you spot imbalances. Over time, this feedback allows you to optimize your schedule and align it with personal goals. Whether you\u2019re a student managing assignments, a professional handling deadlines, or a parent coordinating family activities, this calendar and planner app brings order to the chaos of modern life. It\u2019s not just about marking dates\u2014it\u2019s about creating a system that supports productivity, balance, and success.",
-        "size": 238,
-        "reviews": "14K",
-        "ratingAvg": 4.9,
-        "downloads": "9M",
+        "description": "Discover new possibilities and expand your horizons with this tool. Stay organized and on top of your schedule with real-time updates. Experience the next level of performance with our intuitive interface. A comprehensive solution for all your professional and personal needs. Transform the way you work and play with our cutting-edge software. Transform the way you work and play with our cutting-edge software. Join millions of users who trust us for their daily digital activities. Unlock powerful features designed to help you succeed in every task. Experience the next level of performance with our intuitive interface. Connect with friends and colleagues in a seamless digital environment. Transform the way you work and play with our cutting-edge software. Stay organized and on top of your schedule with real-time updates. Simple to use yet packed with advanced technology for best results. Simple to use yet packed with advanced technology for best results. Discover new possibilities and expand your horizons with this tool. Experience the next level of performance with our intuitive interface. Stay organized and on top of your schedule with real-time updates. Unlock powerful features designed to help you succeed in every task. Simple to use yet packed with advanced technology for best results. Streamline your daily routine and boost efficiency like never before. Transform the way you work and play with our cutting-edge software. A comprehensive solution for all your professional and personal needs. Discover new possibilities and expand your horizons with this tool. Transform the way you work and play with our cutting-edge software. Streamline your daily routine and boost efficiency like never before. A comprehensive solution for all your professional and personal needs. Connect with friends and colleagues in a seamless digital environment. Simple to use yet packed with advanced technology for best results. Discover new possibil",
+        "size": 67,
+        "reviews": "97.3K",
+        "ratingAvg": 4.4,
+        "downloads": "5M+",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 850
+                "count": 4862
             },
             {
                 "name": "2 star",
-                "count": 850
+                "count": 4862
             },
             {
                 "name": "3 star",
-                "count": 1700
+                "count": 9725
             },
             {
                 "name": "4 star",
-                "count": 3400
+                "count": 19450
             },
             {
                 "name": "5 star",
-                "count": 10200
-            }
-        ]
-    },
-    {
-        "image": "https://i.ibb.co.com/fznNdKwz/icon-095.webp",
-        "title": "Modes and Routines",
-        "rating": 4.7,
-        "companyName": "productive.io",
-        "id": 91,
-        "description": "This app is built to solve the chaos of scattered documents across devices and platforms. It acts as a secure digital hub where you can store, organize, and access files with ease. Whether it\u2019s work reports, academic notes, or personal receipts, the app ensures everything is neatly arranged and retrievable in seconds. With automatic cloud syncing, your files are always backed up and accessible from any device, eliminating the fear of data loss.\n\n  Organization is effortless with features like tags, folders, and smart search. You can categorize documents by project, subject, or type, and instantly find what you need with keyword or full-text search. For professionals, advanced OCR (Optical Character Recognition) allows you to scan and digitize paper documents, making them searchable and editable. The app also supports collaboration\u2014files can be securely shared with colleagues, clients, or friends with customizable permissions.\n\n  Security is a top priority. End-to-end encryption ensures sensitive information like contracts or financial records remains private. Version history lets you recover older versions of documents, preventing accidental loss. Offline access means you can view and edit files even without internet connectivity.\n\n  The app also integrates with productivity tools like project managers, email clients, and calendars, making file access seamless within your daily workflow. With support for multiple file formats including PDFs, images, and spreadsheets, it adapts to all types of users. By removing the frustration of disorganized files, this document manager lets you focus on work instead of wasting time searching for data. It is your digital filing cabinet, always organized, always secure, and always within reach.",
-        "size": 271,
-        "reviews": "42K",
-        "ratingAvg": 4.7,
-        "downloads": "2M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 850
-            },
-            {
-                "name": "2 star",
-                "count": 850
-            },
-            {
-                "name": "3 star",
-                "count": 1700
-            },
-            {
-                "name": "4 star",
-                "count": 3400
-            },
-            {
-                "name": "5 star",
-                "count": 10200
-            }
-        ]
-    },
-    {
-        "image": "https://i.ibb.co.com/TDV79fJK/icon-096.webp",
-        "title": "Talking Alarm Clock Beyond",
-        "rating": 4.8,
-        "companyName": "productive.io",
-        "id": 92,
-        "description": "This productivity app is designed for anyone who struggles with organizing daily responsibilities and long-term projects. It allows users to create tasks, group them into categories, and assign deadlines so nothing important slips through the cracks. The clean interface makes adding and editing tasks incredibly simple, ensuring that you spend less time managing your to-do list and more time actually getting things done. With reminders and notifications, the app gently nudges you to stay on track without feeling overwhelming. Users can also break down big goals into smaller, manageable steps, making it easier to stay motivated and see real progress.\n\n  Beyond personal use, the app supports team collaboration. You can share tasks with colleagues, assign responsibilities, and monitor progress in real time. This is particularly useful for remote workers and small businesses looking for a lightweight project management solution. Tasks can be prioritized, color-coded, and filtered so you always know what needs attention first. Another powerful feature is recurring tasks, which helps automate routines like weekly reports or monthly check-ins.\n\n  The app also integrates with popular calendars and cloud storage platforms, keeping everything in sync across devices. Whether you\u2019re on your phone, tablet, or computer, your tasks are always up to date. For those who like to analyze productivity, detailed reports show how much time you\u2019re spending on different categories, helping identify areas for improvement. By combining simplicity with powerful features, this task manager empowers individuals and teams to stay organized, focused, and efficient. Whether you\u2019re managing personal errands, professional projects, or a mix of both, this app acts like your personal assistant that never forgets. It\u2019s the perfect balance of flexibility, structure, and ease of use to help anyone achieve their goals more effectively.",
-        "size": 254,
-        "reviews": "46K",
-        "ratingAvg": 4.8,
-        "downloads": "7M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 850
-            },
-            {
-                "name": "2 star",
-                "count": 850
-            },
-            {
-                "name": "3 star",
-                "count": 1700
-            },
-            {
-                "name": "4 star",
-                "count": 3400
-            },
-            {
-                "name": "5 star",
-                "count": 10200
+                "count": 58351
             }
         ]
     },
     {
         "image": "https://i.ibb.co.com/1JQtk73N/icon-097.webp",
-        "title": "Vaia: Study, Notes, Flashcards",
-        "rating": 4.9,
-        "companyName": "productive.io",
+        "title": "Study, Vaia: Notes, Flashcards Pro",
+        "rating": 4.4,
+        "companyName": "Blue Horizon Tech",
         "id": 93,
-        "description": "This focus app takes the proven Pomodoro technique and makes it even more practical for modern lifestyles. Instead of just setting a timer, it builds a complete environment for deep work, minimizing distractions and maximizing concentration. Users can create custom work and break intervals, track how many sessions they complete each day, and review detailed statistics about their focus habits over time. The design is minimal and calming, reducing cognitive load so you can focus entirely on the task at hand. Notifications gently let you know when to pause and when to resume, helping you maintain a healthy rhythm between work and rest.\n\n  A unique feature of this app is the integration of task lists with timers. You can assign each task to a specific Pomodoro session, making your schedule more structured. The built-in analytics show not only how much time you\u2019ve worked but also which tasks consumed the most energy. This allows you to reflect on your efficiency and adjust your workflow accordingly. The app also includes optional background sounds such as white noise, nature sounds, or instrumental music to create a distraction-free atmosphere.\n\n  For people who struggle with procrastination, the app provides motivational streaks and achievements. Completing multiple Pomodoro sessions unlocks milestones, giving a sense of accomplishment. This gamified approach makes focusing more engaging and less like a chore. Whether you\u2019re studying for exams, coding, writing, or handling office work, the app adapts to your routine. By combining focus tracking, task management, and motivational tools, this Pomodoro app ensures that you not only work harder but also smarter. It is a personal trainer for your brain, keeping you disciplined, refreshed, and productive throughout the day.",
-        "size": 271,
-        "reviews": "22K",
-        "ratingAvg": 4.9,
-        "downloads": "6M",
+        "description": "Simple to use yet packed with advanced technology for best results. Transform the way you work and play with our cutting-edge software. Stay organized and on top of your schedule with real-time updates. Transform the way you work and play with our cutting-edge software. A comprehensive solution for all your professional and personal needs. Streamline your daily routine and boost efficiency like never before. A comprehensive solution for all your professional and personal needs. A comprehensive solution for all your professional and personal needs. Streamline your daily routine and boost efficiency like never before. Streamline your daily routine and boost efficiency like never before. Streamline your daily routine and boost efficiency like never before. Unlock powerful features designed to help you succeed in every task. Unlock powerful features designed to help you succeed in every task. A comprehensive solution for all your professional and personal needs. Discover new possibilities and expand your horizons with this tool. Transform the way you work and play with our cutting-edge software. Simple to use yet packed with advanced technology for best results. A comprehensive solution for all your professional and personal needs. Stay organized and on top of your schedule with real-time updates. Connect with friends and colleagues in a seamless digital environment. Discover new possibilities and expand your horizons with this tool. Transform the way you work and play with our cutting-edge software. Connect with friends and colleagues in a seamless digital environment. Join millions of users who trust us for their daily digital activities. A comprehensive solution for all your professional and personal needs. Streamline your daily routine and boost efficiency like nev",
+        "size": 382,
+        "reviews": "256.5K",
+        "ratingAvg": 4.4,
+        "downloads": "10M+",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 850
+                "count": 12824
             },
             {
                 "name": "2 star",
-                "count": 850
+                "count": 12824
             },
             {
                 "name": "3 star",
-                "count": 1700
+                "count": 25648
             },
             {
                 "name": "4 star",
-                "count": 3400
+                "count": 51296
             },
             {
                 "name": "5 star",
-                "count": 10200
+                "count": 153890
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/DPcv3Rf8/icon-106.webp",
+        "title": "Widget\u30fbCountdown Countdown app Plus",
+        "rating": 4.2,
+        "companyName": "Blue Horizon Tech",
+        "id": 102,
+        "description": "Unlock powerful features designed to help you succeed in every task. Streamline your daily routine and boost efficiency like never before. Streamline your daily routine and boost efficiency like never before. Simple to use yet packed with advanced technology for best results. A comprehensive solution for all your professional and personal needs. Simple to use yet packed with advanced technology for best results. Stay organized and on top of your schedule with real-time updates. A comprehensive solution for all your professional and personal needs. Connect with friends and colleagues in a seamless digital environment. Connect with friends and colleagues in a seamless digital environment. Streamline your daily routine and boost efficiency like never before. Experience the next level of performance with our intuitive interface. Stay organized and on top of your schedule with real-time updates. A comprehensive solution for all your professional and personal needs. Unlock powerful features designed to help you succeed in every task. Unlock powerful features designed to help you succeed in every task. Streamline your daily routine and boost efficiency like never before. Transform the way you work and play with our cutting-edge software. Transform the way you work and play with our cutting-edge software. Stay organized and on top of your schedule with real-time updates. Streamline your daily routine and boost efficiency like never before. Connect with friends and colleagues in a seamless digital environment. Transform the way you work and play with our cutting-edge software. A comprehensive solution for all your professional and personal needs. Transform the way you work and play with our cutting-edge software. Stay organized and on top of your schedule with real-time upd",
+        "size": 136,
+        "reviews": "3.3K",
+        "ratingAvg": 4.2,
+        "downloads": "100K+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 165
+            },
+            {
+                "name": "2 star",
+                "count": 165
+            },
+            {
+                "name": "3 star",
+                "count": 330
+            },
+            {
+                "name": "4 star",
+                "count": 660
+            },
+            {
+                "name": "5 star",
+                "count": 1981
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/HLr6PmjN/icon-109.webp",
+        "title": "relax Breathe: & focus Max",
+        "rating": 4.3,
+        "companyName": "Nexus Software Group",
+        "id": 105,
+        "description": "Streamline your daily routine and boost efficiency like never before. Unlock powerful features designed to help you succeed in every task. Connect with friends and colleagues in a seamless digital environment. Unlock powerful features designed to help you succeed in every task. Stay organized and on top of your schedule with real-time updates. Experience the next level of performance with our intuitive interface. Simple to use yet packed with advanced technology for best results. Connect with friends and colleagues in a seamless digital environment. Simple to use yet packed with advanced technology for best results. Experience the next level of performance with our intuitive interface. Transform the way you work and play with our cutting-edge software. Discover new possibilities and expand your horizons with this tool. Unlock powerful features designed to help you succeed in every task. Transform the way you work and play with our cutting-edge software. Transform the way you work and play with our cutting-edge software. Experience the next level of performance with our intuitive interface. Transform the way you work and play with our cutting-edge software. Simple to use yet packed with advanced technology for best results. Discover new possibilities and expand your horizons with this tool. Join millions of users who trust us for their daily digital activities. Streamline your daily routine and boost efficiency like never before. Experience the next level of performance with our intuitive interface. Connect with friends and colleagues in a seamless digital environment. A comprehensive solution for all your professional and personal needs. Experience the next level of performance with our intuitive interface. Join millions of users who trust us for their daily digita",
+        "size": 275,
+        "reviews": "1789.3K",
+        "ratingAvg": 4.3,
+        "downloads": "100M+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 89465
+            },
+            {
+                "name": "2 star",
+                "count": 89465
+            },
+            {
+                "name": "3 star",
+                "count": 178930
+            },
+            {
+                "name": "4 star",
+                "count": 357861
+            },
+            {
+                "name": "5 star",
+                "count": 1073583
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/MkGn65Rm/icon-115.webp",
+        "title": "Lifestyle Me+ Routine Pro",
+        "rating": 4.5,
+        "companyName": "Aura Development",
+        "id": 111,
+        "description": "Unlock powerful features designed to help you succeed in every task. Stay organized and on top of your schedule with real-time updates. Connect with friends and colleagues in a seamless digital environment. Join millions of users who trust us for their daily digital activities. Discover new possibilities and expand your horizons with this tool. Stay organized and on top of your schedule with real-time updates. Discover new possibilities and expand your horizons with this tool. Discover new possibilities and expand your horizons with this tool. Join millions of users who trust us for their daily digital activities. Discover new possibilities and expand your horizons with this tool. Transform the way you work and play with our cutting-edge software. Discover new possibilities and expand your horizons with this tool. Transform the way you work and play with our cutting-edge software. Discover new possibilities and expand your horizons with this tool. Stay organized and on top of your schedule with real-time updates. A comprehensive solution for all your professional and personal needs. Experience the next level of performance with our intuitive interface. Experience the next level of performance with our intuitive interface. Simple to use yet packed with advanced technology for best results. Simple to use yet packed with advanced technology for best results. Unlock powerful features designed to help you succeed in every task. A comprehensive solution for all your professional and personal needs. A comprehensive solution for all your professional and personal needs. Transform the way you work and play with our cutting-edge software. Stay organized and on top of your schedule with real-time updates. Streamline your daily routine and boost efficiency like never before. Connect with friends and colleagues in a seamless digital environment. Experience the next level of performance with our intuitive interface. Experience the next level of pe",
+        "size": 21,
+        "reviews": "1062.5K",
+        "ratingAvg": 4.5,
+        "downloads": "100M+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 53122
+            },
+            {
+                "name": "2 star",
+                "count": 53122
+            },
+            {
+                "name": "3 star",
+                "count": 106245
+            },
+            {
+                "name": "4 star",
+                "count": 212490
+            },
+            {
+                "name": "5 star",
+                "count": 637471
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/G3nq9bzP/icon-125.webp",
+        "title": "calendar Birthday Pro",
+        "rating": 4.8,
+        "companyName": "Elevate Tech",
+        "id": 121,
+        "description": "Unlock powerful features designed to help you succeed in every task. A comprehensive solution for all your professional and personal needs. Transform the way you work and play with our cutting-edge software. Experience the next level of performance with our intuitive interface. Transform the way you work and play with our cutting-edge software. Join millions of users who trust us for their daily digital activities. Unlock powerful features designed to help you succeed in every task. Experience the next level of performance with our intuitive interface. Stay organized and on top of your schedule with real-time updates. Transform the way you work and play with our cutting-edge software. Transform the way you work and play with our cutting-edge software. Simple to use yet packed with advanced technology for best results. Stay organized and on top of your schedule with real-time updates. Simple to use yet packed with advanced technology for best results. A comprehensive solution for all your professional and personal needs. Connect with friends and colleagues in a seamless digital environment. Discover new possibilities and expand your horizons with this tool. Transform the way you work and play with our cutting-edge software. Stay organized and on top of your schedule with real-time updates. Discover new possibilities and expand your horizons with this tool. Unlock powerful features designed to help you succeed in every task. Transform the way you work and play with our cutting-edge software. Simple to use yet packed with advanced technology for best results. Streamline your daily routine and boost efficiency like never before. A comprehensive solution for all your professional and personal needs. Stay organized and on top of your schedule with real-time updates. Experience the next level of performance with our intuitive interface. Transform the way you work and play with our cutting-edge software. Join millions of users who",
+        "size": 242,
+        "reviews": "2475.1K",
+        "ratingAvg": 4.8,
+        "downloads": "50M+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 123753
+            },
+            {
+                "name": "2 star",
+                "count": 123753
+            },
+            {
+                "name": "3 star",
+                "count": 247506
+            },
+            {
+                "name": "4 star",
+                "count": 495012
+            },
+            {
+                "name": "5 star",
+                "count": 1485036
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/VcJQKQ91/icon-114.webp",
+        "title": "- UpNote notes, diary, journal Go",
+        "rating": 4.1,
+        "companyName": "Prism Mobile",
+        "id": 110,
+        "description": "Stay organized and on top of your schedule with real-time updates. Join millions of users who trust us for their daily digital activities. Transform the way you work and play with our cutting-edge software. Connect with friends and colleagues in a seamless digital environment. Discover new possibilities and expand your horizons with this tool. Discover new possibilities and expand your horizons with this tool. Transform the way you work and play with our cutting-edge software. Streamline your daily routine and boost efficiency like never before. Streamline your daily routine and boost efficiency like never before. Experience the next level of performance with our intuitive interface. Streamline your daily routine and boost efficiency like never before. Unlock powerful features designed to help you succeed in every task. A comprehensive solution for all your professional and personal needs. Simple to use yet packed with advanced technology for best results. Join millions of users who trust us for their daily digital activities. Discover new possibilities and expand your horizons with this tool. Join millions of users who trust us for their daily digital activities. A comprehensive solution for all your professional and personal needs. Stay organized and on top of your schedule with real-time updates. A comprehensive solution for all your professional and personal needs. A comprehensive solution for all your professional and personal needs. A comprehensive solution for all your professional and personal needs. Streamline your daily routine and boost efficiency like never before. Simple to use yet packed with advanced technology for b",
+        "size": 398,
+        "reviews": "46.2K",
+        "ratingAvg": 4.1,
+        "downloads": "1M+",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 4622
+            },
+            {
+                "name": "2 star",
+                "count": 4622
+            },
+            {
+                "name": "3 star",
+                "count": 9245
+            },
+            {
+                "name": "4 star",
+                "count": 13868
+            },
+            {
+                "name": "5 star",
+                "count": 13868
             }
         ]
     },
     {
         "image": "https://i.ibb.co.com/4ZZzy9Jx/icon-098.webp",
-        "title": "Simple Alarm Clock",
-        "rating": 4.4,
-        "companyName": "productive.io",
+        "title": "Alarm Simple Clock Max",
+        "rating": 4.5,
+        "companyName": "Ironclad Apps",
         "id": 94,
-        "description": "This app is built around the idea that small, consistent actions lead to big changes over time. The habit tracker allows you to define daily, weekly, or monthly goals and then mark them as complete each time you achieve them. Over days and weeks, you can see visual progress charts that highlight streaks and consistency. By gamifying habit-building, the app motivates users to stick with routines and develop lasting positive behaviors. From fitness goals like exercising and drinking water to personal growth habits like reading or meditation, it accommodates every type of lifestyle change.\n\n  The app uses reminders to nudge you at the right time, helping you follow through on intentions. Notifications can be fully customized so they feel supportive rather than intrusive. Another standout feature is its community aspect, where users can share progress with friends or join challenges. This social accountability makes sticking to habits easier and more enjoyable. For example, joining a 30-day writing challenge with friends keeps you committed and engaged.\n\n  The interface is intentionally simple and visually pleasing. Each habit is color-coded and represented with icons, making your habit dashboard clear at a glance. Progress streaks give you a sense of accomplishment, and missing a habit helps you reflect on barriers without feeling discouraged. Over time, the app generates detailed insights, showing which habits you\u2019re most consistent with and where you need improvement.\n\n  Unlike traditional planners, this habit tracker focuses on building routines rather than overwhelming you with tasks. It\u2019s designed for long-term personal growth and mindset transformation. Whether you\u2019re trying to quit bad habits, establish new healthy routines, or simply stay accountable, this app is your personal coach for self-improvement. By turning habits into small wins, it empowers you to create sustainable changes that compound into success.",
-        "size": 213,
-        "reviews": "41K",
-        "ratingAvg": 4.4,
-        "downloads": "2M",
+        "description": "Discover new possibilities and expand your horizons with this tool. A comprehensive solution for all your professional and personal needs. Transform the way you work and play with our cutting-edge software. Discover new possibilities and expand your horizons with this tool. A comprehensive solution for all your professional and personal needs. Connect with friends and colleagues in a seamless digital environment. Simple to use yet packed with advanced technology for best results. Simple to use yet packed with advanced technology for best results. Discover new possibilities and expand your horizons with this tool. Simple to use yet packed with advanced technology for best results. Join millions of users who trust us for their daily digital activities. Transform the way you work and play with our cutting-edge software. Discover new possibilities and expand your horizons with this tool. Streamline your daily routine and boost efficiency like never before. Stay organized and on top of your schedule with real-time updates. Transform the way you work and play with our cutting-edge software. Unlock powerful features designed to help you succeed in every task. Join millions of users who trust us for their daily digital activities. Stay organized and on top of your schedule with real-time updates. Connect with friends and colleagues in a seamless digital environment. Stay organized and on top of your schedule with real-time updates. Connect with friends and colleagues in a seamless digital environment. Join millions of users who trust us for their daily digital activities. Join millions of users who trust us for their daily digital activities. Join millions of users who trust us for their daily digital activities. A comprehensive solution for all your professional and personal needs. Stay organized and on top of your schedule with real-time updates. A comprehensive solution for all your professional and personal needs. A com",
+        "size": 416,
+        "reviews": "2256.0K",
+        "ratingAvg": 4.5,
+        "downloads": "50M+",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 850
+                "count": 112801
             },
             {
                 "name": "2 star",
-                "count": 850
+                "count": 112801
             },
             {
                 "name": "3 star",
-                "count": 1700
+                "count": 225602
             },
             {
                 "name": "4 star",
-                "count": 3400
+                "count": 451204
             },
             {
                 "name": "5 star",
-                "count": 10200
-            }
-        ]
-    },
-    {
-        "image": "https://i.ibb.co.com/DHXstsp5/icon-099.webp",
-        "title": "Catzy: Self-Care Journey",
-        "rating": 4.9,
-        "companyName": "productive.io",
-        "id": 95,
-        "description": "This focus app takes the proven Pomodoro technique and makes it even more practical for modern lifestyles. Instead of just setting a timer, it builds a complete environment for deep work, minimizing distractions and maximizing concentration. Users can create custom work and break intervals, track how many sessions they complete each day, and review detailed statistics about their focus habits over time. The design is minimal and calming, reducing cognitive load so you can focus entirely on the task at hand. Notifications gently let you know when to pause and when to resume, helping you maintain a healthy rhythm between work and rest.\n\n  A unique feature of this app is the integration of task lists with timers. You can assign each task to a specific Pomodoro session, making your schedule more structured. The built-in analytics show not only how much time you\u2019ve worked but also which tasks consumed the most energy. This allows you to reflect on your efficiency and adjust your workflow accordingly. The app also includes optional background sounds such as white noise, nature sounds, or instrumental music to create a distraction-free atmosphere.\n\n  For people who struggle with procrastination, the app provides motivational streaks and achievements. Completing multiple Pomodoro sessions unlocks milestones, giving a sense of accomplishment. This gamified approach makes focusing more engaging and less like a chore. Whether you\u2019re studying for exams, coding, writing, or handling office work, the app adapts to your routine. By combining focus tracking, task management, and motivational tools, this Pomodoro app ensures that you not only work harder but also smarter. It is a personal trainer for your brain, keeping you disciplined, refreshed, and productive throughout the day.",
-        "size": 213,
-        "reviews": "59K",
-        "ratingAvg": 4.9,
-        "downloads": "1M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 850
-            },
-            {
-                "name": "2 star",
-                "count": 850
-            },
-            {
-                "name": "3 star",
-                "count": 1700
-            },
-            {
-                "name": "4 star",
-                "count": 3400
-            },
-            {
-                "name": "5 star",
-                "count": 10200
-            }
-        ]
-    },
-    {
-        "image": "https://i.ibb.co.com/NnbVPn5M/icon-100.webp",
-        "title": "Minimalistic Task Reminder",
-        "rating": 4.4,
-        "companyName": "productive.io",
-        "id": 96,
-        "description": "This productivity app is designed for anyone who struggles with organizing daily responsibilities and long-term projects. It allows users to create tasks, group them into categories, and assign deadlines so nothing important slips through the cracks. The clean interface makes adding and editing tasks incredibly simple, ensuring that you spend less time managing your to-do list and more time actually getting things done. With reminders and notifications, the app gently nudges you to stay on track without feeling overwhelming. Users can also break down big goals into smaller, manageable steps, making it easier to stay motivated and see real progress.\n\n  Beyond personal use, the app supports team collaboration. You can share tasks with colleagues, assign responsibilities, and monitor progress in real time. This is particularly useful for remote workers and small businesses looking for a lightweight project management solution. Tasks can be prioritized, color-coded, and filtered so you always know what needs attention first. Another powerful feature is recurring tasks, which helps automate routines like weekly reports or monthly check-ins.\n\n  The app also integrates with popular calendars and cloud storage platforms, keeping everything in sync across devices. Whether you\u2019re on your phone, tablet, or computer, your tasks are always up to date. For those who like to analyze productivity, detailed reports show how much time you\u2019re spending on different categories, helping identify areas for improvement. By combining simplicity with powerful features, this task manager empowers individuals and teams to stay organized, focused, and efficient. Whether you\u2019re managing personal errands, professional projects, or a mix of both, this app acts like your personal assistant that never forgets. It\u2019s the perfect balance of flexibility, structure, and ease of use to help anyone achieve their goals more effectively.",
-        "size": 205,
-        "reviews": "34K",
-        "ratingAvg": 4.4,
-        "downloads": "1M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 850
-            },
-            {
-                "name": "2 star",
-                "count": 850
-            },
-            {
-                "name": "3 star",
-                "count": 1700
-            },
-            {
-                "name": "4 star",
-                "count": 3400
-            },
-            {
-                "name": "5 star",
-                "count": 10200
-            }
-        ]
-    },
-    {
-        "image": "https://i.ibb.co.com/s9Q17QmX/icon-101.webp",
-        "title": "Sleep Tracker - Sleep Recorder",
-        "rating": 4.3,
-        "companyName": "productive.io",
-        "id": 97,
-        "description": "This app redefines the way you capture and organize ideas, notes, and information. Designed for professionals, students, and creatives, it provides a seamless environment where thoughts can be written, organized, and accessed instantly. You can create quick notes, detailed documents, or simple checklists, all within the same interface. Every note is automatically saved and synced across devices, so whether you\u2019re typing on your laptop, phone, or tablet, your information is always available.\n\n  What sets this app apart is its powerful organizational structure. Notes can be grouped into notebooks, tagged for easy searching, and linked to one another, creating a network of knowledge. This makes it especially useful for research, brainstorming, and long-term projects. A built-in search engine ensures you can retrieve any piece of information instantly, even if you\u2019ve written it months ago. The app also supports multimedia input: attach images, audio recordings, or even PDFs to notes for a richer context.\n\n  Collaboration features allow you to share notes with colleagues or classmates, making it easy to co-edit documents in real time. Integrated task checklists help transform notes into actionable plans. Offline support ensures you never lose access to your content, even without internet. With end-to-end encryption, the app also takes privacy seriously, making it safe for sensitive data.\n\n  For creatives, the app provides templates such as meeting notes, project outlines, and idea boards. For students, it\u2019s a reliable study companion where lecture notes, assignments, and references live together. With a minimalist yet functional design, the app keeps distractions away and lets you focus on what matters: your ideas. More than just a notebook, it is your personal knowledge base, designed to grow with you over time. It ensures your thoughts are never lost and always accessible when inspiration strikes.",
-        "size": 216,
-        "reviews": "36K",
-        "ratingAvg": 4.3,
-        "downloads": "2M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 850
-            },
-            {
-                "name": "2 star",
-                "count": 850
-            },
-            {
-                "name": "3 star",
-                "count": 1700
-            },
-            {
-                "name": "4 star",
-                "count": 3400
-            },
-            {
-                "name": "5 star",
-                "count": 10200
-            }
-        ]
-    },
-    {
-        "image": "https://i.ibb.co.com/KcBMj9Wz/icon-102.webp",
-        "title": "Listy \u00b7 Beautiful lists",
-        "rating": 4.6,
-        "companyName": "productive.io",
-        "id": 98,
-        "description": "This app takes a different approach to productivity by focusing on motivation and gamification. It understands that staying consistent is often harder than starting. By turning tasks and goals into interactive challenges, it keeps users engaged and inspired. Each completed task earns you points, achievements, or rewards that unlock new levels, making productivity feel like a game. The more consistent you are, the more progress you see on your personal dashboard.\n\n  The app allows you to customize challenges based on your lifestyle, whether it\u2019s completing daily workouts, finishing study sessions, or achieving professional goals. You can compete with friends or join global leaderboards, adding a healthy dose of competition. This social aspect encourages accountability and makes staying productive less lonely.\n\n  Motivational tools are built in, such as streaks, milestone badges, and progress trackers. Personalized reminders encourage you without being intrusive. The app also adapts to your progress\u2014if you\u2019re falling behind, it suggests smaller, manageable steps to help you regain momentum. For those who thrive on rewards, the app can even be linked to real-life incentives like gift cards or discounts.\n\n  The design is colorful and engaging, using visuals that feel more like a game than a boring planner. Yet beneath the fun interface, it tracks serious data about your productivity habits. Over time, you can analyze patterns and understand what keeps you motivated. By combining behavioral psychology with gamification, this app bridges the gap between intention and action. It makes self-improvement exciting, sustainable, and enjoyable.",
-        "size": 254,
-        "reviews": "11K",
-        "ratingAvg": 4.6,
-        "downloads": "8M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 850
-            },
-            {
-                "name": "2 star",
-                "count": 850
-            },
-            {
-                "name": "3 star",
-                "count": 1700
-            },
-            {
-                "name": "4 star",
-                "count": 3400
-            },
-            {
-                "name": "5 star",
-                "count": 10200
-            }
-        ]
-    },
-    {
-        "image": "https://i.ibb.co.com/5gftw5f6/icon-103.webp",
-        "title": "Clarify: ADHD Organizer & help",
-        "rating": 4.1,
-        "companyName": "productive.io",
-        "id": 99,
-        "description": "This productivity app is designed for lifelong learners who want to capture, organize, and retain knowledge efficiently. It combines reading, note-taking, and spaced repetition to make learning a structured and enjoyable process. You can save articles, videos, and resources from across the web into a clean, distraction-free library. Built-in highlighting and annotation tools let you capture key insights as you read. Notes are automatically linked to the original source, keeping context intact.\n\n  What makes the app powerful is its integration of spaced repetition algorithms. Important notes can be turned into flashcards, and the app reminds you to review them at scientifically optimized intervals, ensuring long-term retention. This makes it ideal for students, professionals preparing for certifications, or anyone passionate about continuous learning. A personal knowledge graph visually connects related ideas, helping you see the bigger picture.\n\n  Collaboration features let you share resources or co-create study libraries with peers. Offline mode ensures you can study anytime, anywhere. With advanced search and categorization, your personal knowledge base grows without ever becoming cluttered. Insights and progress reports show how much you\u2019ve learned and how consistent you\u2019ve been.\n\n  By combining resource organization, active recall, and collaboration, this app turns scattered learning into a structured journey. Whether you\u2019re mastering a language, keeping up with industry research, or exploring personal interests, it becomes your personal learning companion. It\u2019s not just about consuming information\u2014it\u2019s about retaining, applying, and growing your knowledge over time. This app empowers you to be a smarter, more capable version of yourself every single day.",
-        "size": 285,
-        "reviews": "41K",
-        "ratingAvg": 4.1,
-        "downloads": "2M",
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 850
-            },
-            {
-                "name": "2 star",
-                "count": 850
-            },
-            {
-                "name": "3 star",
-                "count": 1700
-            },
-            {
-                "name": "4 star",
-                "count": 3400
-            },
-            {
-                "name": "5 star",
-                "count": 10200
+                "count": 1353613
             }
         ]
     }

@@ -14,7 +14,7 @@ const Trending = () => {
                 <div className='mx-auto grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 my-10 gap-3  md:gap-5 '>
                     {trending.map(app => <AppCard key={app.id} app={app} />)}
                 </div>
-                <Link to="/apps" target="_blank" className="btn bg-linear-to-tl from-indigo-500 to-purple-500 text-white"> View All Apps
+                <Link to="/apps" className="btn bg-linear-to-tl from-indigo-500 to-purple-500 text-white"> View All Apps
                 </Link>
             </div>
         </section>

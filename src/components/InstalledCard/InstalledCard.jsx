@@ -9,13 +9,13 @@ const InstalledCard = ({ app, handleUninstall }) => {
                     <img
                         src={app.image}
                         alt={app.title}
-                        className="w-20 h-20 rounded-lg object-cover"
+                        className="w-16 md:w-20 h-16 md:h-20 rounded-lg object-cover"
                     />
                 </div>
 
                 {/* info */}
                 <div className="flex-1">
-                    <h3 className="font-semibold text-gray-800 text-lg mb-1">{app.title}</h3>
+                    <h3 className="font-semibold text-gray-800 md:text-lg mb-1">{app.title}</h3>
                     <div className="flex items-center gap-4 text-sm">
                         <span className="text-[#00d390] font-medium flex items-center gap-1">
                             <LuDownload className='' />
@@ -30,7 +30,7 @@ const InstalledCard = ({ app, handleUninstall }) => {
 
                 <button
                     onClick={() => handleUninstall(app.id, app.title)}
-                    className="shrink-0 bg-emerald-500 text-white px-6 py-2.5 rounded-lg font-medium hover:bg-emerald-600 transition duration-300 cursor-pointer"
+                    className="shrink-0 bg-emerald-500 text-xs md:text-base text-white px-3 md:px-6 py-2 md:py-2.5 rounded-lg font-medium hover:bg-emerald-600 transition duration-300 cursor-pointer"
                 >
                     Uninstall
                 </button>
