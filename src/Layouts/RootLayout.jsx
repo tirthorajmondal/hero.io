@@ -3,6 +3,7 @@ import Navbar from '../components/shared/Navbar/Navbar';
 import { Suspense } from 'react';
 import Loading from './../components/shared/Loading/Loading';
 import Footer from './../components/shared/Footer/Footer';
+import { ToastContainer } from 'react-toastify';
 
 const RootLayout = () => {
     return (
@@ -14,6 +15,7 @@ const RootLayout = () => {
                     <Outlet />
                 </div>
                 <Footer />
+                <ToastContainer />
             </div>
         </Suspense >
     );

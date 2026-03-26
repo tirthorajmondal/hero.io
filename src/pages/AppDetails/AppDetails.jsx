@@ -5,13 +5,11 @@ import { LuDownload, LuMessageSquareQuote } from 'react-icons/lu';
 import { FaStar } from 'react-icons/fa';
 
 const AppDetails = () => {
-    const { fetchProductDetails } = useProducts();
+    const { fetchProductDetails, handleInstall } = useProducts();
     const { id } = useParams()
 
-    const appInfo = fetchProductDetails(id) || {};
-    const { title, companyName = '', downloads = '0', ratings = [], reviews = '0', description = '', size = '0', image } = appInfo;
-
-
+    const app = fetchProductDetails(id) || {};
+    const { title, companyName = '', downloads = '0', ratings = [], reviews = '0', description = '', size = '0', image } = app;
 
     return (
         <div className="w-11/12 mx-auto space-y-5 py-20">
@@ -25,10 +23,10 @@ const AppDetails = () => {
                         <p>Developed by <span className="text-secondary font-medium">{companyName}</span></p>
                     </div>
                     <div className="py-5 flex justify-between items-center">
-                        <div className="stats stats-horizontal overflow-auto" style={{ scrollbarGutter: 'stable', scrollbarWidth:'thin'}} onWheel={e=>console.log(e)}>
+                        <div className="stats stats-horizontal overflow-auto" style={{ scrollbarGutter: 'stable', scrollbarWidth: 'thin', }}>
                             <div className="stat">
                                 <div className="stat-figure text-secondary">
-                                    <LuDownload className='text-4xl text-green-900' />
+                                    <LuDownload className='text-4xl text-blue-900' />
                                 </div>
                                 <div className="stat-title">Downloads</div>
                                 <div className="stat-value">{downloads}</div>
@@ -44,7 +42,7 @@ const AppDetails = () => {
 
                             <div className="stat">
                                 <div className="stat-figure text-secondary">
-                                    <LuMessageSquareQuote className='text-4xl text-blue-700' />
+                                    <LuMessageSquareQuote className='text-4xl text-blue-900' />
 
                                 </div>
                                 <div className="stat-title">Total Reviews</div>
@@ -53,7 +51,10 @@ const AppDetails = () => {
                         </div>
                     </div>
                     <div className="">
-                        <button className="btn shadow-xl hover:shadow-2xl btn-xl bg-[#00D390] text-white">Install Now ({size} MB)</button>
+                        <button
+                            disabled={app.installed}
+                            onClick={() => handleInstall(app)}
+                            className={` btn shadow-xl hover:shadow-2xl btn-xl ${app.installed ? 'bg-[#00D390]/50':'bg-[#00D390]'}  text-white`}>{app.installed ? 'Installed' : `Install Now(${size} MB)`} </button>
                     </div>
                 </div>
             </div>
