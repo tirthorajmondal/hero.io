@@ -14,6 +14,10 @@ const Home = () => {
         return () => clearTimeout(timer);
     }, []);
 
+    useEffect(() => {
+        scrollTo(0, 0);
+    }, []);
+
     if (loading) {
         return <Loading />;
     }

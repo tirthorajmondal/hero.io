@@ -1,6 +1,6 @@
 import { Outlet, useNavigation } from 'react-router-dom';
 import Navbar from '../components/shared/Navbar/Navbar';
-import { Suspense } from 'react';
+import { Suspense, useEffect } from 'react';
 import Loading from './../components/shared/Loading/Loading';
 import Footer from './../components/shared/Footer/Footer';
 import { ToastContainer } from 'react-toastify';
@@ -9,7 +9,6 @@ const RootLayout = () => {
     const navigation = useNavigation();
 
     const isNavigating = navigation.state === 'loading';
-    console.log(navigation);
 
     return (
         <Suspense fallback={<Loading />}>

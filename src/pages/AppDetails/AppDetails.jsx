@@ -4,13 +4,22 @@ import ReviewChart from '../../components/ReviewChart/ReviewChart';
 import { LuDownload, LuMessageSquareQuote } from 'react-icons/lu';
 import { FaStar } from 'react-icons/fa';
 import Loading from '../../components/shared/Loading/Loading';
+import { useEffect } from 'react';
 
 const AppDetails = () => {
-    const { fetchProductDetails, handleInstall, installed, loading } = useProducts();
+    const { fetchProductDetails, handleInstall, installed, loading, setLoading } = useProducts();
     const { id } = useParams()
 
     const app = fetchProductDetails(id) || {};
     const { title, companyName = '', downloads = '0', ratings = [], reviews = '0', description = '', size = '0', image } = app;
+
+    useEffect(() => {
+        const timer = setTimeout(() => {
+            setLoading(false);
+        }, 250);
+        scrollTo(0, 0);
+        return () => clearTimeout(timer);
+    }, []);
 
     if (loading) {
         return <Loading />;
@@ -69,7 +78,7 @@ const AppDetails = () => {
                         <button
                             disabled={isInstalled}
                             onClick={() => handleInstall(app)}
-                            className={` btn shadow-xl hover:shadow-2xl btn-xl ${isInstalled ? 'bg-[#00D390]/50':'bg-[#00D390]'}  text-white`}>{isInstalled ? 'Installed' : `Install Now(${size} MB)`} </button>
+                            className={` btn shadow-xl hover:shadow-2xl btn-xl ${isInstalled ? 'bg-[#00D390]/50' : 'bg-[#00D390]'}  text-white`}>{isInstalled ? 'Installed' : `Install Now(${size} MB)`} </button>
                     </div>
                 </div>
             </div>

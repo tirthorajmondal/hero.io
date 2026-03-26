@@ -17,6 +17,10 @@ const Apps = () => {
     };
 
     useEffect(() => {
+        scrollTo(0, 0);
+    }, []);
+
+    useEffect(() => {
         const timer = setTimeout(() => {
             if (searchText) {
                 const results = searchProducts(searchText);
@@ -55,7 +59,7 @@ const Apps = () => {
                 </div>
             </div>
             <div className='w-11/12 mx-auto grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 my-10 gap-5 '>
-               
+
                 {searchLoading ? <SearchLoading /> :
                     filteredProducts.length > 0 ? filteredProducts.map(app => <AppCard key={app.id} app={app} />)
                         : <div className='text-center text-lg font-semibold col-span-full'>
